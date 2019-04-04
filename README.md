@@ -1,6 +1,4 @@
 # NJURMaster
-## How to build this project
+## Build
 - Since it is based on STM32F427II, we recommend you to build this project on MDK5.
 
-   This project might be the last project on embedded system for me. 
-   After that I would like to pay more attention to computer vison and deep learning .
